@@ -12,3 +12,6 @@ x = input()
 y = input()
 z = input()
 print(max_num(x,y,z))
+
+#the program does not work
+# for larger numbers by 10
